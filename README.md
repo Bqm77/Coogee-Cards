@@ -1,7 +1,7 @@
-# Coogee-Cards
-A site for a cardgame called Coogee
+# Qazacatism ©
+A cardgame called Qazacatism with Cats, Qazes, and Fishes
 
-Visit [our website](https://bqm77.github.io/Coogee-Cards/) for details
+Visit [our website](https://bqm77.github.io/Coogee-Cards/) for more details
 
 OR
 
